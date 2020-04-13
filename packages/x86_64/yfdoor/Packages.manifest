@@ -1,0 +1,26 @@
+Package: luci-app-control-timewol
+Version: 1.0-3-20190309
+Depends: libc, etherwake
+Source: feeds/yfdoor/others/luci-app-control-timewol
+SourceName: luci-app-control-timewol
+Section: luci
+Architecture: all
+Installed-Size: 2598
+Filename: luci-app-control-timewol_1.0-3-20190309_all.ipk
+Size: 3393
+SHA256sum: a07f68f5a5cb0a7efa367ca39242fb7f19390b8492221ac9809360ae0eb1529b
+Description:  LuCI support for Timewol From Koolshare
+
+Package: luci-app-control-webrestriction
+Version: 1.0-5-20200107
+Depends: libc
+Source: feeds/yfdoor/others/luci-app-control-webrestriction
+SourceName: luci-app-control-webrestriction
+Section: luci
+Architecture: all
+Installed-Size: 2932
+Filename: luci-app-control-webrestriction_1.0-5-20200107_all.ipk
+Size: 3727
+SHA256sum: 0fc96017716a9dfbd470da5ca45c35c724847c8d5d5b33cdb7d6085572e147eb
+Description:  LuCI support for Webrestriction From Koolshare
+
